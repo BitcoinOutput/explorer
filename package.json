@@ -34,7 +34,7 @@
     "chai": "^4.2.0",
     "eslint": "^5.15.3",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-import": "^2.27.5",
     "html-linter": "^1.1.1",
     "mocha": "^6.0.2",
     "request": "^2.88.0"
