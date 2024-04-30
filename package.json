@@ -18,7 +18,7 @@
     "bignumber.js": "^8.1.1",
     "body-parser": "^1.18.3",
     "concurrently": "4.1.0",
-    "ejs": "2.6.1",
+    "ejs": "3.1.10",
     "express": "^4.16.4",
     "human-standard-token-abi": "^2.0.0",
     "mongoose": "^4.13.18",
